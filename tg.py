@@ -6,4 +6,8 @@ print ('Branch Feature')
 print ('Четвертый принт для ветки feature')
 print ('5й принт, его я изменил в Feature')
 
+<<<<<<< HEAD
 print('КОнфликт')
+=======
+print ('Новый принт под новую feature')
+
