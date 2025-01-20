@@ -6,3 +6,4 @@ print ('Branch Feature')
 print ('Четвертый принт для ветки feature')
 print ('5й принт, его я изменил в Feature')
 
+print ('Новый принт под новую feature')
